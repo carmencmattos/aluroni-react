@@ -21,3 +21,6 @@ Para visualizar no navegador [http://localhost:3000](http://localhost:3000)
 ```npm install sass``` - para instalar o sass, que escreve os estilos.
 
 
+Deploy na vercel: https://vercel.com/carmencmattos/aluroni-react/B8bafvJRFnSjYqWpTbj3fEFxpd2F
+
+
