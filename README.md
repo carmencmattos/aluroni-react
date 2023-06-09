@@ -1,8 +1,8 @@
 # Restaurante Aluroni
 
-Projeto realizado em curso da Alura para aprofundar os conhecimentos em React.
+Desenvolvimento de telas para o restaurante Aluroni, com cardápio, filtros por combos, por vegano, por carnes e por massas.
 
-Desenvolvimento de uma tela para o restaurante Aluroni, com cardápio, filtros por combos, por vegano, por carnes e por massas.
+Projeto realizado em curso da Alura para aprofundar os conhecimentos em React, utilizando Typescript.
 
 Pré-requisitos: Node e npm instalados na máquina.
 
@@ -20,6 +20,9 @@ Para visualizar no navegador [http://localhost:3000](http://localhost:3000)
 
 ```npm install sass``` - para instalar o sass, que escreve os estilos.
 
+```npm init @eslint/config``` - para instalar o ESLint, que detecta problemas no código.
+
+```npm install react-router-dom``` - para instalar o React router-dom, pacote que organiza as diversas rotas da aplicação.
 
 Deploy na vercel: https://vercel.com/carmencmattos/aluroni-react/B8bafvJRFnSjYqWpTbj3fEFxpd2F
 
