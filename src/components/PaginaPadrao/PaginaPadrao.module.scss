@@ -25,9 +25,11 @@
 
     &__text {
         color: white;
-        font-size: 5rem;
+        font-size: 4rem;
         min-width: 400px;
-        width: 40%;
+        width: 60%;
+        display: flex;
+        text-align: center;
 
     }
 }
